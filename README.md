@@ -44,6 +44,21 @@ py hangman.py
 
 While making this project, I learned how to use loops, if-else statements, strings, sets, and the random module in Python. I also learned how to take user input and build a simple console game.
 
-## Author
 
-Samiksha Kawade
+## Task 2: Stock Portfolio Performance Tracker
+
+In this task, I created a simple Python program to track stock investments. The program takes stock names, buying prices, quantities, and current prices from the user. It calculates the total investment, current value, and profit or loss for each stock. It also saves the results in a CSV file.
+
+### Technologies Used
+
+* Python
+* CSV File Handling
+
+### Files
+
+* `portfolio.py` – Python program for tracking stock investments.
+* `portfolio_summary.csv` – CSV file containing the portfolio summary.
+
+### What I Learned
+
+While doing this task, I learned how to use Python dictionaries, take user input, calculate profit and loss, and save results in a CSV file.
